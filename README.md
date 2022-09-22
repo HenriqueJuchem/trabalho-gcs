@@ -4,8 +4,7 @@ enunciado:
 
 trabalho gerenciamento e configuração de software
 
-
-
 Nomes:
-Brenda Pereira Camara,
-Henrique Da Silva Juchem,
+Brenda Pereira Camara
+Maria Eduarda Wendel Maia
+Henrique Da Silva Juchem
