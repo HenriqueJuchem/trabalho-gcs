@@ -11,3 +11,29 @@ Nomes:
 Brenda Pereira Camara
 Maria Eduarda Wendel Maia
 Henrique Da Silva Juchem
+
+Atividade1(Brenda,Henrique,Maria Eduarda)
+Todos integrantes adicionaram os nomes no README
+git.ignore também foi adicionado ao repositório onde a liçenca MIT pode ser visualizada
+
+Atividade2(Brenda)
+As pastas e os arquivos adicionados ao repositorio 
+imagem abaixo:
+
+
+Atividade3(Brenda)
+1-passo: clonar o repositorio
+2 passo: entrar na pasta trabalho-gcs\gs-maven\initial>
+3 passo: executar os comandos:
+mvn compile package
+mvn install
+java -jar target/gs-maven-0.1.0.jar
+
+Atividade4(Brenda)
+configuração do Maven feita no action do github e badge adicionado ao README
+
+Atividade5(Henrique)
+
+Ativadade6(Maria Eduarda)
+
+Atividade7(Maria Eduarda)
