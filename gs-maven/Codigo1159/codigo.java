@@ -35,4 +35,25 @@ public class codigo{
         
             }
     }
+
+    public int retornaValor(int x){
+                int soma = 0;
+                int numeroVezes = 0;
+        
+                System.out.println("Escreva o numero desejado para x: ");
+                x = in.nextInt();
+        
+              
+                 while(numeroVezes < 5)
+                {
+                    if(x % 2 == 0)
+                    {
+                        soma += x;
+                        numeroVezes += 1;
+                    }
+                    x++;
+                    
+                }  
+                return soma;        
+    }
 }
