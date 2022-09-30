@@ -39,5 +39,7 @@ Security scan adicionado ao projeto
 
 
 Ativadade6(Maria Eduarda)
+foram realizadas duas versões do código 1159, onde pedia para fazer a soma dos 4 pares consecutivos de algum número, a primeira não sendo aprovada pelo BeeCrowd pois não funcionava corretamente e a segunda aprovada, utilizada e postada para a realização da atividade 7. 
 
 Atividade7(Maria Eduarda)
+Foi criado apenas um caso de teste: basicamente escrevemos qual é o objetivo do nosso programa e o que queremos que ele faça testando dentro desse arquivo pra ver se o programa da atividade 6 ocorre como esperado.
