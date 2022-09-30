@@ -18,8 +18,7 @@ git.ignore também foi adicionado ao repositório onde a liçenca MIT pode ser v
 
 Atividade2(Brenda)
 As pastas e os arquivos adicionados ao repositorio. 
-imagem abaixo:
-![image](https://user-images.githubusercontent.com/101914663/193156168-42e96259-00da-4748-bbd0-71fcf1c427f4.png)
+
 
 
 Atividade3(Brenda)
@@ -29,6 +28,7 @@ Atividade3(Brenda)
 mvn compile package
 mvn install
 java -jar target/gs-maven-0.1.0.jar
+![image](https://user-images.githubusercontent.com/101914663/193156168-42e96259-00da-4748-bbd0-71fcf1c427f4.png)
 
 Atividade4(Brenda)
 configuração do Maven feita no action do github e badge adicionado ao README
