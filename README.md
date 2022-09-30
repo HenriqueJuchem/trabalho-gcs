@@ -17,7 +17,7 @@ Todos integrantes adicionaram os nomes no README
 git.ignore também foi adicionado ao repositório onde a liçenca MIT pode ser visualizada
 
 Atividade2(Brenda)
-As pastas e os arquivos adicionados ao repositorio 
+As pastas e os arquivos adicionados ao repositorio. 
 imagem abaixo:
 ![image](https://user-images.githubusercontent.com/101914663/193156168-42e96259-00da-4748-bbd0-71fcf1c427f4.png)
 
